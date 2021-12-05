@@ -46,3 +46,11 @@ body
 {
     font-size: 20px;
 }
+
+#footer
+{
+    background-color: #777;
+    color: white;
+    text-align: center;
+}
+
