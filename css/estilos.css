@@ -16,6 +16,14 @@ body
     font-weight: bold;
     margin: 0;
     padding: 0;
+   ;
+}
+
+#cabecera#logo
+{
+    width: 10px;
+    vertical-align: middle;
+    ;
 }
 
 #cabecera #tagline
